@@ -3,7 +3,7 @@
 [Filament Docs](https://filamentphp.com/docs/3.x/panels/installation)
 
 
-### Ajouter une  liste de checkbox au  formulaire
+### Ajouter une  liste de checkbox au  formulaire dynamique
 
 
     class ProjectResource extends Resource
